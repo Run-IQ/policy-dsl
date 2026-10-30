@@ -69,4 +69,4 @@ The multi-document types (`DocumentRole`, `MultiDocumentEntry`, `MultiDocumentRe
 
 ## License
 
-MIT
+MIT License. See [LICENSE](LICENSE).
